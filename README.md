@@ -1,3 +1,3 @@
 # qitian7.github.io
-test
-3242342342
+访问这个, 个人站点
+https://qitian7.github.io/
